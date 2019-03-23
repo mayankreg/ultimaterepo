@@ -1,1 +1,3 @@
+<<<<<<< HEAD
  this is a cow. Changes have been made by master.
+>>>>>>> 33c176c5ffbf90031edea140a41f99a75637dcc3
